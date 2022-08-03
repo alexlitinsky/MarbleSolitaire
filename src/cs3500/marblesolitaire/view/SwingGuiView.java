@@ -2,7 +2,6 @@ package cs3500.marblesolitaire.view;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
-import java.util.ArrayList;
 
 import javax.swing.JPanel;
 import javax.swing.JFrame;
